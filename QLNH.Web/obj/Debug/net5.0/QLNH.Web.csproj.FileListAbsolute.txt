@@ -1,0 +1,277 @@
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.json
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.exe
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.deps.json
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.json
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.dev.json
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\ref\QLNH.Web.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Humanizer.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.dll
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.pdb
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.AssemblyReference.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfoInputs.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfo.cs
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.Manifest.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.xml
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\scopedcss\bundle\QLNH.Web.styles.css
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.RazorTargetAssemblyInfo.cache
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CopyComplete
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.dll
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\ref\QLNH.Web.dll
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.pdb
+D:\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.genruntimeconfig.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.exe
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.deps.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.dev.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\ref\QLNH.Web.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.AssemblyReference.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfoInputs.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfo.cs
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CoreCompileInputs.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.Manifest.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.xml
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\scopedcss\bundle\QLNH.Web.styles.css
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.RazorTargetAssemblyInfo.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CopyComplete
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\ref\QLNH.Web.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.StaticWebAssets.xml
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.exe
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.deps.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Web.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.Common.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfo.cs
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\scopedcss\bundle\QLNH.Web.styles.css
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.Pack.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\msbuild.QLNH.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.QLNH.Web.props
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.QLNH.Web.props
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.QLNH.Web.props
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\refint\QLNH.Web.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\QLNH.Web.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Web\obj\Debug\net5.0\ref\QLNH.Web.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Web\bin\Debug\net5.0\Twilio.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\appsettings.json
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.exe
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.deps.json
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.json
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.runtimeconfig.dev.json
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\ref\QLNH.Web.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Web.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Humanizer.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\Twilio.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.dll
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.BLL.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang11\QLNH.Web\bin\Debug\net5.0\QLNH.DAL.pdb
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.AssemblyReference.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfoInputs.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.AssemblyInfo.cs
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.Manifest.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\staticwebassets\QLNH.Web.StaticWebAssets.xml
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\scopedcss\bundle\QLNH.Web.styles.css
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.RazorTargetAssemblyInfo.cache
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.csproj.CopyComplete
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.dll
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\ref\QLNH.Web.dll
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.pdb
+D:\QuanLyNhaHang11\QLNH.Web\obj\Debug\net5.0\QLNH.Web.genruntimeconfig.cache

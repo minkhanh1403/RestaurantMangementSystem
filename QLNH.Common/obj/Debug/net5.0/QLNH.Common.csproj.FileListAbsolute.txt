@@ -1,0 +1,60 @@
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.deps.json
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\ref\QLNH.Common.dll
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.AssemblyReference.cache
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfoInputs.cache
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfo.cs
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\ref\QLNH.Common.dll
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.json
+D:\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.dev.json
+D:\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.genruntimeconfig.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.deps.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.dev.json
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\ref\QLNH.Common.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.AssemblyReference.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfoInputs.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfo.cs
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.CoreCompileInputs.cache
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\ref\QLNH.Common.dll
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.pdb
+C:\Users\minhk\OneDrive\Máy tính\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.deps.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\bin\Debug\net5.0\QLNH.Common.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfo.cs
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\refint\QLNH.Common.dll
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.pdb
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\QLNH.Common.genruntimeconfig.cache
+C:\Users\Admin\Downloads\QuanLyNhaHang (1)\QuanLyNhaHang\QLNH.Common\obj\Debug\net5.0\ref\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\QLNH.Common.deps.json
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.json
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\QLNH.Common.runtimeconfig.dev.json
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\ref\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Common\bin\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.AssemblyReference.cache
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfoInputs.cache
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.AssemblyInfo.cs
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\ref\QLNH.Common.dll
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.pdb
+D:\QuanLyNhaHang11\QLNH.Common\obj\Debug\net5.0\QLNH.Common.genruntimeconfig.cache
